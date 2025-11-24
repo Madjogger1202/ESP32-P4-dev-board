@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ESP32-P4NRW32")(type "KiCad")(uri "${KIPRJMOD}/library/ESP32-P4NRW32.kicad_sym")(options "")(descr ""))
+  (lib (name "DF30FC-24DS-0_4V_81_")(type "KiCad")(uri "${KIPRJMOD}/library/DF30FC-24DS-0_4V_81_.kicad_sym")(options "")(descr ""))
+  (lib (name "TF-01A")(type "KiCad")(uri "${KIPRJMOD}/library/TF-01A.kicad_sym")(options "")(descr ""))
+)

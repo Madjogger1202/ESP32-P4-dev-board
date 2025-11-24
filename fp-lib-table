@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ESP32-P4NRW32")(type "KiCad")(uri "${KIPRJMOD}/library/ESP32-P4NRW32.pretty")(options "")(descr ""))
+  (lib (name "DF30FC-24DS-0.4V(81)")(type "KiCad")(uri "${KIPRJMOD}/library/DF30FC-24DS-0.4V(81).pretty")(options "")(descr ""))
+  (lib (name "TF-01A")(type "KiCad")(uri "${KIPRJMOD}/library/TF-01A.pretty")(options "")(descr ""))
+)
